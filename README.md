@@ -1,5 +1,5 @@
 # About Me:
-SWE Intern @ Infosys, 2nd Year Student @ QMUL<br>
+Associate SWE intern @ Ethixbase, prev @ Infosys, Student @ QMUL<br>
 
 
 ## Socials:
