@@ -1,11 +1,7 @@
 # About Me:
 Associate SWE intern @ Ethixbase, prev @ Infosys, Student @ QMUL<br>
 
-Current main tech stack:
-- Javascript
-- Vue.js
-- React
-
+Building as much as I can :)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-parwany-29abb12a4/) 
